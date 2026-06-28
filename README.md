@@ -54,7 +54,7 @@ git clone https://github.com/icsalgadomayorga/TourLlanquihue2.0.git
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/icsalgadomayorga/TourLlanquihue.git]
+**Repositorio GitHub:** \[https://github.com/icsalgadomayorga/TourLlanquihue2.0.git]
 **Fecha de entrega:** \[29/06/2025]
 
 ---
