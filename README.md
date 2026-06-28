@@ -9,7 +9,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Actividad Formativa 3 del ramo Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es solucionar la problemática presentada por la empresa ficticia Llanquihue Tours.
+Este proyecto corresponde a la Actividad Formativa 4 del ramo Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es solucionar la problemática presentada por la empresa ficticia Llanquihue Tours.
 
 ---
 
